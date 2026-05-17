@@ -1,0 +1,30 @@
+body {
+  background-color: blueviolet;
+}
+
+#quem-sou-eu,
+card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 50px;
+  border-radius: 50px;
+  width: end;
+  height: 200px;
+  background-color: aqua;
+}
+
+#titulo {
+  color: violet;
+  padding: 40px;
+}
+
+#text {
+  color: purple;
+  padding: 50px;
+  text-align: end;
+}
+
+#list {
+  background-color: aqua;
+}
